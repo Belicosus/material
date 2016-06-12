@@ -35,7 +35,7 @@
  *
  * <md-tab >
  *   <md-tab-label>
- *     <h3>My Tab content</h3>
+ *     <span>My Tab content</span>
  *   </md-tab-label>
  *   <md-tab-body>
  *     <p>
